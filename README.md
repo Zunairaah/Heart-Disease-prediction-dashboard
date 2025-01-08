@@ -36,10 +36,8 @@ The dataset used in this project contains medical features relevant to heart dis
 **Future Improvements**  
 - Adding support for multiple machine learning models.  
 - Enhancing the UI for better user experience.  
-- Adding more detailed performance metrics for the prediction model.  
-**License**  
-This project is licensed under the [MIT License](LICENSE).  
+- Adding more detailed performance metrics for the prediction model.   
 **Acknowledgments**  
 - Thanks to open-source contributors and libraries like Plotly, Dash, and Scikit-learn.  
 - Special thanks to the healthcare datasets that made this project possible.  
-Feel free to contribute, report issues, or share feedback! 🚀  
+Feel free to contribute, report issues, or share feedback! 
