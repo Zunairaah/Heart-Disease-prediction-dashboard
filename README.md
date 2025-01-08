@@ -14,7 +14,8 @@ This project is a web-based interactive dashboard built using **Plotly Dash**. T
 
 3️⃣ **Categorical Data Visualization**  
 - Visual representation of categorical features from the dataset.  
-- Includes bar charts, pie charts, and other relevant plots for better understanding.  
+- Includes bar charts, pie charts, and other relevant plots for better understanding.
+
 4️⃣ **Numerical Data Visualization**  
 - Visualizes numerical columns using various types of plots such as histograms, scatter plots, and box plots.  
 - Helps identify trends and patterns in the data.  
